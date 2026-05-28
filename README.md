@@ -1,6 +1,4 @@
-# projeto-de-automacao
-RPA em Python que automatiza o processo de cadastro de produtos em sistema web a partir de uma base CSV.
-# Automação de Cadastro de Produtos com Python
+# RPA para cadastro de produtos com Python
 
 Este projeto é uma automação (RPA) desenvolvida em Python que realiza o cadastro automático de produtos em um sistema web.
 
