@@ -64,7 +64,7 @@ python main.py
 
 ---
 
-# 💡 Dica importante (nível profissional)
+# Dica importante
 
 Se você quiser deixar seu projeto mais valorizado troque:
 
