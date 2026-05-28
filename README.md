@@ -27,9 +27,11 @@ A automação utiliza PyAutoGUI para simular ações do usuário (cliques e digi
 
 ## Estrutura do projeto
 ```
-├── main.py # Script principal de automação
-├── auxiliar.py # Utilitário para captura de coordenadas
-├── produtos.csv # Base de dados dos produtos
+rpa-cadastro-produtos/
+└── rpa/
+    ├── main.py
+    ├── auxiliar.py
+    └── produtos.csv
 ```
 
 ---
